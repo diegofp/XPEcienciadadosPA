@@ -1,0 +1,30 @@
+﻿VIN (1-10);County;city;State;Model;Model Year;Make;Electric Vehicle Type;country;iso2;lat;lng;BodyStyle;Segment;PriceEuro
+1G1RA6E41C;Lewis;Toledo;WA;VOLT;2012;CHEVROLET;Plug-in Hybrid Electric Vehicle (PHEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+5YJSA1E45G;Lewis;Toledo;WA;MODEL S;2016;TESLA;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+1FADP5FU3H;Lewis;Toledo;WA;C-MAX;2017;FORD;Plug-in Hybrid Electric Vehicle (PHEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+1N4BZ0CP6H;Lewis;Toledo;WA;LEAF;2017;NISSAN;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;Hatchback;C;29234
+1G1RB6S59J;Lewis;Toledo;WA;VOLT;2018;CHEVROLET;Plug-in Hybrid Electric Vehicle (PHEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+5YJ3E1EB9J;Lewis;Toledo;WA;MODEL 3;2018;TESLA;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+5YJSA1E24J;Lewis;Toledo;WA;MODEL S;2018;TESLA;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+5YJ3E1EB3J;Santa Cruz;Santa Cruz;CA;MODEL 3;2018;TESLA;Battery Electric Vehicle (BEV);Bolivia;BO;-17.7892;-63.1975;NULL;NULL;NULL
+1N4AZ1CP3J;Lewis;Toledo;WA;LEAF;2018;NISSAN;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;Hatchback;C;29234
+1G1FX6S05J;Lewis;Toledo;WA;BOLT EV;2018;CHEVROLET;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+5YJ3E1EAXK;Lewis;Toledo;WA;MODEL 3;2019;TESLA;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+WA1VABGE4K;Lewis;Toledo;WA;E-TRON;2019;AUDI;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+JTDKARFP5K;Lewis;Toledo;WA;PRIUS PRIME;2019;TOYOTA;Plug-in Hybrid Electric Vehicle (PHEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+1N4BZ1CP3K;Lewis;Toledo;WA;LEAF;2019;NISSAN;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;Hatchback;C;29234
+1N4BZ1CP8K;Lewis;Toledo;WA;LEAF;2019;NISSAN;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;Hatchback;C;29234
+5YJ3E1EBXL;Lewis;Toledo;WA;MODEL 3;2020;TESLA;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+5YJ3E1EB6L;Lewis;Toledo;WA;MODEL 3;2020;TESLA;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+1G1FY6S06L;Lewis;Toledo;WA;BOLT EV;2020;CHEVROLET;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+5YJ3E1EA5L;Lewis;Toledo;WA;MODEL 3;2020;TESLA;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+2C4RC1N79L;Lewis;Toledo;WA;PACIFICA;2020;CHRYSLER;Plug-in Hybrid Electric Vehicle (PHEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+5YJ3E1EB0M;Lewis;Toledo;WA;MODEL 3;2021;TESLA;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+1G1FY6S08M;Las Animas;Trinidad;CO;BOLT EV;2021;CHEVROLET;Battery Electric Vehicle (BEV);Bolivia;BO;-14.8292;-64.9014;NULL;NULL;NULL
+KNDC3DLC9N;Lewis;Toledo;WA;EV6;2022;KIA;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+7SAYGDEE6N;Lewis;Toledo;WA;MODEL Y;2022;TESLA;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+5YJSA1E55N;Lewis;Toledo;WA;MODEL S;2022;TESLA;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+1G1FZ6S08N;Lewis;Toledo;WA;BOLT EV;2022;CHEVROLET;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+1C4JJXP69P;Lewis;Toledo;WA;WRANGLER;2023;JEEP;Plug-in Hybrid Electric Vehicle (PHEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+3FMTK3SS8P;Lewis;Toledo;WA;MUSTANG MACH-E;2023;FORD;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL
+KNDCR3L18P;Lewis;Toledo;WA;NIRO;2023;KIA;Battery Electric Vehicle (BEV);Brazil;BR;-24.7139;-53.7428;NULL;NULL;NULL

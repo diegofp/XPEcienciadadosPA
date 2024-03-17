@@ -1,0 +1,11 @@
+﻿Brand;Model;Accel;TopSpeed;Range;Efficiency;FastCharge;RapidCharge;PowerTrain;PlugType;BodyStyle;Segment;Seats;PriceEuro
+"Tesla ";Model 3 Long Range Dual Motor;4.6 sec;233 km/h;450 km;161 Wh/km;940 km/h;Rapid charging possible;All Wheel Drive;Type 2 CCS;Sedan;D;5;55480
+"Lucid ";"Air ";2.8 sec;250 km/h;610 km;180 Wh/km;620 km/h;Rapid charging possible;All Wheel Drive;Type 2 CCS;Sedan;F;5;105000
+"Tesla ";Model 3 Standard Range Plus;5.6 sec;225 km/h;310 km;153 Wh/km;650 km/h;Rapid charging possible;Rear Wheel Drive;Type 2 CCS;Sedan;D;5;46380
+"BMW ";"i4 ";4.0 sec;200 km/h;450 km;178 Wh/km;650 km/h;Rapid charging possible;Rear Wheel Drive;Type 2 CCS;Sedan;D;5;65000
+"Porsche ";Taycan Turbo S;2.8 sec;260 km/h;375 km;223 Wh/km;780 km/h;Rapid charging possible;All Wheel Drive;Type 2 CCS;Sedan;F;4;180781
+"Audi ";"e-tron GT ";3.5 sec;240 km/h;425 km;197 Wh/km;850 km/h;Rapid charging possible;All Wheel Drive;Type 2 CCS;Sedan;F;4;125000
+"Tesla ";Model 3 Long Range Performance;3.4 sec;261 km/h;435 km;167 Wh/km;910 km/h;Rapid charging possible;All Wheel Drive;Type 2 CCS;Sedan;D;5;61480
+"Porsche ";Taycan 4S;4.0 sec;250 km/h;365 km;195 Wh/km;730 km/h;Rapid charging possible;All Wheel Drive;Type 2 CCS;Sedan;F;4;102945
+"Porsche ";Taycan 4S Plus;4.0 sec;250 km/h;425 km;197 Wh/km;890 km/h;Rapid charging possible;All Wheel Drive;Type 2 CCS;Sedan;F;4;109302
+"Porsche ";Taycan Turbo;3.2 sec;260 km/h;390 km;215 Wh/km;810 km/h;Rapid charging possible;All Wheel Drive;Type 2 CCS;Sedan;F;4;148301
